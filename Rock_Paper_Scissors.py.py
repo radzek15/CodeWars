@@ -1,4 +1,5 @@
 '''
+Inspired by one of CodeWars Katas
 Rock Paper Scissors Game written in Python
 Game logic is simple:
   - Player chooses one of 3 available choices
