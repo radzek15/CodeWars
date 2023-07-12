@@ -25,6 +25,8 @@ sudoku(puzzle)
   [2,8,7,4,1,9,6,3,5],
   [3,4,5,2,8,6,1,7,9]]
 '''
+
+
 def sudoku(puzzle):
     for row, col in [(r, c) for r in range(9) for c in range(9) if not puzzle[r][c]]:
 
